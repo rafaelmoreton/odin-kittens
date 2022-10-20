@@ -1,0 +1,2 @@
+# Odin Kittens
+This is a very simple toy app which provides a vanilla REST API that creates virtual kitten models. It's an [assignment](https://www.theodinproject.com/lessons/ruby-on-rails-kittens-api) from the Odin Project intended to make practical use of the previous lessons on APIs.
